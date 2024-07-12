@@ -625,7 +625,7 @@ macro avg 0.85 0.85 0.85 178
 weighted avg 0.86 0.85 0.85 178
 The model predicts a burnout indicator, albeit with lesser accuracy than the decision tree classifier.
 ## Section 5. Conclusions
-In summary, the findings of the study suggest that gender plays a role in the likelihood of developing
+The findings of the study suggest that gender plays a role in the likelihood of developing
 mental health concerns among university students, with female students being less likely to experience such issues
 than male students. The year of study emerged as a significant predictor of empathy levels, indicating that as
 students progress through their academic journey, they may become more attuned to the emotions and needs of
