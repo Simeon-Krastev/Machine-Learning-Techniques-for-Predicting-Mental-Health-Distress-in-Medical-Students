@@ -639,70 +639,95 @@ health outcomes among medical students.
 Bergmann, C., Muth, T., & Loerbroks, A. (2019). Medical students’ perceptions of stress due to academic studies
 and its interrelationships with other domains of life: a qualitative study. Medical Education Online, 24(1),
 1603526. https://doi.org/10.1080/10872981.2019.1603526
+
 Bexelius, T., Lachmann, H., Järnbert-Pettersson, H., Kalén, S., Möller, R., & Ponzer, S. (2019). Stress among
 medical students during clinical courses: a longitudinal study using contextual activity sampling system.
 International Journal of Medical Education, 10, 68–74. https://doi.org/10.5116/ijme.5c94.9391
 Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Preisig, M., Schmid Mast, M., & Berney,
+
 A. (2022). The relationship between medical students’ empathy, mental health, and burnout: A
 cross-sectional study. Medical Teacher, 44(12), 1392–1399.
 https://doi.org/10.1080/0142159x.2022.2098708
+
 Chen, Y., Yang, K., Jing, T., Huang, Y., & Li, L. (2019). Effects of team-based learning on perceived teamwork and
 empathy among nursing students. Advances in Health Sciences Education, 24(1), 155-164.
 https://doi.org/10.1007/s10459-018-9839-9
+
 Chia, T. I., Oyeniran, O. I., Ajagbe, A. O., Onigbinde, O. A., & Oraebosi, M. I. (2020). The symptoms and stress
 experienced by medical students in anatomy dissection halls. Journal of Taibah University Medical
 Sciences, 15(1), 8–13. https://doi.org/10.1016/j.jtumed.2020.01.001
+
 Duncan, A. (2020). The Potential Protective Effect of Hope on Students’ Experience of Perceived Stress and
 Burnout during Medical School. The Permanente Journal, 24(5). https://doi.org/10.7812/tpp/19.240
 Dyrbye, L. N., Sciolla, A. F., Dekhtyar, M., Rajasekaran, S., Allgood, J. A., Rea, M., Knight, A. P., Haywood, A.,
+
 Smith, S., & Stephens, M. B. (2019). Medical School Strategies to Address Student Well-Being. Academic
 Medicine, 94(6), 861–868. https://doi.org/10.1097/acm.0000000000002611
+
 Halperin, S. J., Henderson, M. N., Prenner, S., & Grauer, J. N. (2021). Prevalence of Anxiety and Depression
 Among Medical Students During the Covid-19 Pandemic: A Cross-Sectional Study. Journal of Medical
 Education and Curricular Development, 8, 238212052199115. https://doi.org/10.1177/2382120521991150
+
 Iorga, M., Soponaru, C., Muraru, I.-D., Socolov, S., & Petrariu, F.-D. (2020, June 22). Factors Associated with
 Acculturative Stress among International Medical Students. BioMed Research International.
 https://www.hindawi.com/journals/bmri/2020/2564725/
+
 Ironson, G. H., Smith, P. C., Brannick, M. T., Gibson, W. M., & Paul, K. B. (1989). Construction of a job in general
 scale: A comparison of global, composite, and specific measures. Journal of Applied Psychology, 74(2),
 193-200. doi:10.1037/0021-9010.74.2.193
+
 Jordan, R. K., Shah, S. S., Desai, H., Tripi, J., Mitchell, A., & Worth, R. G. (2020). Variation of stress levels,
 burnout, and resilience throughout the academic year in first-year medical students. PLOS ONE, 15(10),
 e0240667. https://doi.org/10.1371/journal.pone.0240667
+
 Maslach, C., Jackson, S. E., & Leiter, M. P. (1981). Maslach Burnout Inventory. Journal of Occupational
 Psychology, 52(2), 131-136. https://doi.org/10.1002/job.4030020205
+
 Neufeld, A., & Malin, G. (2021). How medical students cope with stress: a cross-sectional look at strategies and
 their sociodemographic antecedents. BMC Medical Education, 21(1).
 https://doi.org/10.1186/s12909-021-02734-4
+
 Pokhrel, N. B., Khadayat, R., & Tulachan, P. (2020). Depression, anxiety, and burnout among medical students and
 residents of a medical school in Nepal: a cross-sectional study. BMC Psychiatry, 20(1).
 https://doi.org/10.1186/s12888-020-02645-6
+
 Proietti Ergün, A. L., & Ersöz Demirdağ, H. (2022). The relation between foreign language enjoyment, subjective
 well-being, and perceived stress in multilingual students. Journal of Multilingual and Multicultural
 Development, 1–13. https://doi.org/10.1080/01434632.2022.2057504
+
 Puranachaikere, T., Hataiyusuk, S., Anupansupsai, R., In-iw, S., Saisavoey, N., Techapanuwat, T., Arunrodpanya, F.,
 Charonpongsuntorn, C., Wiwattanaworaset, P., Siripongpan, A., Pruttithavorn, W., Wonglertwisawakorn,
 C., Pojanapotha, P., Rueangrong, B., Pattrakornkul, N., Piyawattanametha, N., Piyawattanametha, S., &
 Ratanapichayachai, D. (2021). Stress and associated factors with received and needed support in medical
 students during COVID-19 pandemic: a multicenter study. Korean Journal of Medical Education, 33(3),
 203–213. https://doi.org/10.3946/kjme.2021.200
+
 Reniers, R. L., Corcoran, R., Drake, R., Shryane, N. M., & Völlm, B. A. (2011). The QCAE: A questionnaire of
 cognitive and affective empathy. Journal of personality assessment, 93(1), 84-95. doi:
 10.1080/00223891.2010.528485
+
 Radloff, L. S. (1977). The CES-D scale: A self report depression scale for research in the general population.
 Applied Psychological Measurements, 1, 385-401.
+
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social
 development, and well-being. American Psychologist, 55(1), 68-78.
+
 Sayadi, F. (2023, January 25). Medical Student Mental Health. Kaggle. Retrieved February 10, 2023, from
 https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health
+
 Scherer, K. R., Clark-Polner, E., & Mortillaro, M. (2012). In the eye of the beholder? Universality and cultural
 specificity in the expression and perception of emotion. International Journal of Psychology, 47(6),
 469-480. doi: 10.1080/00207594.2012.676864
+
 Spielberger, C. D., Gorsuch, R. L., Lushene, R., Vagg, P. R., & Jacobs, G. A. (1983). Manual for the State-Trait
 Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.
+
 Steiner-Hofbauer, V., & Holzinger, A. (2020). How to Cope with the Challenges of Medical Education? Stress,
+
 Depression, and Coping in Undergraduate Medical Students. Academic Psychiatry, 44(4), 380–387.
 https://doi.org/10.1007/s40596-020-01193-1
+
 Wickramasinghe, D. P., Almeida, I. S., & Samarasekera, D. N. (2019). Depression and stressful life events among
 medical students during undergraduate career: Findings from a medical school in South Asia. The Asia
+
 Pacific Scholar, 4(1), 42–47. https://doi.org/10.29060/taps.2019-4-1/oa2025
