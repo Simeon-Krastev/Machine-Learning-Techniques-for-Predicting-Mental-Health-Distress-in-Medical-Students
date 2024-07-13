@@ -614,6 +614,4 @@ Depression, and Coping in Undergraduate Medical Students. Academic Psychiatry, 4
 https://doi.org/10.1007/s40596-020-01193-1
 
 Wickramasinghe, D. P., Almeida, I. S., & Samarasekera, D. N. (2019). Depression and stressful life events among
-medical students during undergraduate career: Findings from a medical school in South Asia. The Asia
-
-Pacific Scholar, 4(1), 42–47. https://doi.org/10.29060/taps.2019-4-1/oa2025
+medical students during undergraduate career: Findings from a medical school in South Asia. The Asia Pacific Scholar, 4(1), 42–47. https://doi.org/10.29060/taps.2019-4-1/oa2025
