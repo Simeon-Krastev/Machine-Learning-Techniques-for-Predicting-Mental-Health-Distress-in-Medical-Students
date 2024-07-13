@@ -542,10 +542,8 @@ Sciences, 15(1), 8–13. https://doi.org/10.1016/j.jtumed.2020.01.001
 
 Duncan, A. (2020). The Potential Protective Effect of Hope on Students’ Experience of Perceived Stress and
 Burnout during Medical School. The Permanente Journal, 24(5). https://doi.org/10.7812/tpp/19.240
-Dyrbye, L. N., Sciolla, A. F., Dekhtyar, M., Rajasekaran, S., Allgood, J. A., Rea, M., Knight, A. P., Haywood, A.,
 
-Smith, S., & Stephens, M. B. (2019). Medical School Strategies to Address Student Well-Being. Academic
-Medicine, 94(6), 861–868. https://doi.org/10.1097/acm.0000000000002611
+Dyrbye, L. N., Sciolla, A. F., Dekhtyar, M., Rajasekaran, S., Allgood, J. A., Rea, M., Knight, A. P., Haywood, A., Smith, S., & Stephens, M. B. (2019). Medical School Strategies to Address Student Well-Being. Academic Medicine, 94(6), 861–868. https://doi.org/10.1097/acm.0000000000002611
 
 Halperin, S. J., Henderson, M. N., Prenner, S., & Grauer, J. N. (2021). Prevalence of Anxiety and Depression
 Among Medical Students During the Covid-19 Pandemic: A Cross-Sectional Study. Journal of Medical
