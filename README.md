@@ -203,8 +203,8 @@ And the following confusion matrix:
 The decision tree classifier produced a model that returned the following measures of accuracy,
 outperforming the logistic regression classifier:
 Accuracy: 0.8033707865168539
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.76   | 0.86     | 0.80    | 84      |
 | 1         | 0.86   | 0.76     | 0.80    | 94      |
 | accuracy  |        |          | 0.80    | 178     |
@@ -234,9 +234,10 @@ verbose: False
 ```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 overall mental health symptom prevalence based on the predictors, resulting in the following evaluation:
+
 Accuracy: 0.8314606741573034
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.81   | 0.85     | 0.83    | 84      |
 | 1         | 0.86   | 0.82     | 0.84    | 94      |
 | accuracy  |        |          | 0.83    | 178     |
@@ -286,10 +287,12 @@ F1-score: 0.7845303867403315
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy,
 outperforming the logistic regression classifier:
+
 Best parameters: {'max_depth': 21}
+
 Accuracy: 0.9213483146067416
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.94   | 0.90     | 0.92    | 92      |
 | 1         | 0.90   | 0.94     | 0.92    | 86      |
 | accuracy  |        |          | 0.92    | 178     |
@@ -319,9 +322,11 @@ verbose: False
 ```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
+
 Accuracy: 0.9269662921348315
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.93   | 0.92     | 0.93    | 92      |
 | 1         | 0.92   | 0.93     | 0.92    | 86      |
 | accuracy  |        |          | 0.93    | 178     |
@@ -375,9 +380,11 @@ F1-score: 0.7228915662650603
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy,
 outperforming the logistic regression classifier:
+
 Accuracy: 0.8539325842696629
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.86   | 0.86     | 0.86    | 92      |
 | 1         | 0.85   | 0.85     | 0.85    | 86      |
 | accuracy  |        |          | 0.85    | 178     |
@@ -407,9 +414,11 @@ verbose: False
 ```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
+
 Accuracy: 0.8146067415730337
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.82   | 0.83     | 0.82    | 92      |
 | 1         | 0.81   | 0.80     | 0.81    | 86      |
 | accuracy  |        |          | 0.81    | 178     |
@@ -455,9 +464,11 @@ F1-score: 0.6496815286624203
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy, outperforming the
 logistic regression classifier:
+
 Accuracy: 0.8651685393258427
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.87   | 0.87     | 0.87    | 95      |
 | 1         | 0.86   | 0.86     | 0.86    | 83      |
 | accuracy  |        |          | 0.87    | 178     |
@@ -487,9 +498,11 @@ verbose: False
 ```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
+
 Accuracy: 0.8539325842696629
-| precision | recall | f1-score | support |
-|-----------|--------|----------|---------|
+
+|           | precision | recall | f1-score | support |
+|-----------|-----------|--------|----------|---------|
 | 0         | 0.88   | 0.84     | 0.86    | 95      |
 | 1         | 0.83   | 0.87     | 0.85    | 83      |
 | accuracy  |        |          | 0.85    | 178     |
