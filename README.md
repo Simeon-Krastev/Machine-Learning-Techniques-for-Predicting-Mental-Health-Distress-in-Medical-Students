@@ -191,7 +191,7 @@ Recall: 0.5851063829787234
 F1-score: 0.6145251396648045
 ```
 And the following confusion matrix:
-|-----------| precision | recall | f1-score | support |
+|           | precision | recall | f1-score | support |
 |-----------|-----------|--------|----------|---------|
 | 0         | 0.58   | 0.64     | 0.61    | 84      |
 | 1         | 0.65   | 0.59     | 0.61    | 94      |
