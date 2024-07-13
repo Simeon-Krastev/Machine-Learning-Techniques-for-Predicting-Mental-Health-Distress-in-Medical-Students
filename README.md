@@ -184,10 +184,12 @@ well as the mother tongue; employment and relationship status do not seem to hav
 developing mental health concerns. As expected, the ‘psyt’ variable is a significant indicator of overall mental health
 symptom prevalence.
 The model produced the following measures of accuracy:
+```text
 Accuracy: 0.6123595505617978
 Precision: 0.6470588235294118
 Recall: 0.5851063829787234
 F1-score: 0.6145251396648045
+```
 And the following confusion matrix:
 | precision | recall | f1-score | support |
 |-----------|--------|----------|---------|
@@ -212,6 +214,7 @@ Accuracy: 0.8033707865168539
 SVM Classifier
 Using a grid search to find the best hyperparameters for the SVM model resulted in the following
 parameters:
+```text
 Best hyperparameters: {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
 C: 100
 break_ties: False
@@ -228,6 +231,7 @@ random_state: None
 shrinking: True
 tol: 0.001
 verbose: False
+```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 overall mental health symptom prevalence based on the predictors, resulting in the following evaluation:
 Accuracy: 0.8314606741573034
@@ -256,6 +260,7 @@ A low R-squared value of 0.154 and high P-values indicates that a linear model i
 the data.
 #### Logistic Regression Classifier
 A logistic regression model was generated with the following coefficients:
+```text
 age : -0.0610902221687773
 year : 0.3460577000292258
 stud_h : 0.018150976814688878
@@ -265,16 +270,19 @@ job : 0.3675862597274941
 sex_Man : 1.5814328922973937
 sex_Non-binary : 1.530364398449996
 sex_Woman : 3.3157515365601204
+```
 This model classifies the outcome of the predictors above based on the probability that the ‘emp_ind’
 metric will result in a value of 0.50 or more. This would indicate a moderate to strong levels of empathy among the
 participants. The predictor “year” seems to have a significant positive influence on empathy levels. Male medical
 students show lower levels of empathy than female or non-binary students. Employment status, relationship status,
 and age show lower levels of influence on empathy.
 The model produced the following measures of accuracy:
+```text
 Accuracy: 0.7808988764044944
 Precision: 0.7473684210526316
 Recall: 0.8255813953488372
 F1-score: 0.7845303867403315
+```
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy,
 outperforming the logistic regression classifier:
@@ -291,6 +299,7 @@ Accuracy: 0.9213483146067416
 #### SVM Classifier
 Using a grid search to find the best hyperparameters for the SVM model resulted in the following
 parameters:
+```text
 Best hyperparameters: {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
 C: 100
 break_ties: False
@@ -307,6 +316,7 @@ random_state: None
 shrinking: True
 tol: 0.001
 verbose: False
+```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
 Accuracy: 0.9269662921348315
@@ -336,6 +346,7 @@ A low R-squared value of 0.285 and high P-values indicates that a linear model i
 the data.
 Logistic Regression Classifier
 A logistic regression model was generated with the following coefficients:
+```text
 age : -0.00975821829735036
 year : -0.16714969089841794
 stud_h : -0.0023646225781372805
@@ -347,6 +358,7 @@ health : -0.8110263864730923
 sex_Man : -3.113139360256602
 sex_Non-binary : -1.3846822151698122
 sex_Woman : -1.7489527518939434
+```
 This model classifies the outcome of the predictors above based on the probability that the ‘mh_ind’ metric
 will result in a value of 50 or more. This would indicate a moderate to strong levels of mental health distress among
 the participants. As expected, the predictors ‘psyt’ and ‘health’ seem to have a large effect on the prevalence of
@@ -354,10 +366,12 @@ anxiety or depression among the participants. In this model, relationship and em
 moderate influence on mental health distress. Male medical students show lower levels of mental health distress than
 female students, but it is the non-binary students that seem to show the lowest prevalence of depression and anxiety.
 The model produced the following measures of accuracy:
+```text
 Accuracy: 0.7415730337078652
 Precision: 0.75
 Recall: 0.6976744186046512
 F1-score: 0.7228915662650603
+```
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy,
 outperforming the logistic regression classifier:
@@ -373,6 +387,7 @@ Accuracy: 0.8539325842696629
 #### SVM Classifier
 Using a grid search to find the best hyperparameters for the SVM model resulted in the following
 parameters:
+```text
 Best hyperparameters: {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
 C: 100
 break_ties: False
@@ -389,6 +404,7 @@ random_state: None
 shrinking: True
 tol: 0.001
 verbose: False
+```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
 Accuracy: 0.8146067415730337
@@ -415,6 +431,7 @@ A very low R-squared value of 0.023 and high P-values indicates that a linear mo
 fit for the data.
 #### Logistic Regression Classifier
 A logistic regression model was generated with the following coefficients:
+```text
 age : -0.09645618178939863
 year : 0.08837194880934997
 stud_h : -0.002525163757227461
@@ -424,14 +441,17 @@ job : -0.3810041866562519
 sex_Man : -3.045981169230055
 sex_Non-binary : -1.2222956272853072
 sex_Woman : -2.1517369060133578
+```
 This model classifies the outcome of the predictors above based on the probability that the ‘burn_ind’
 metric will result in a value of 0.50 or more. This would indicate moderate levels of burnout. In this model, the
 biggest influence on burnout seems to be gender. Mother tongue is also a significant factor for burnout.
 The model produced the following measures of accuracy:
+```text
 Accuracy: 0.6910112359550562
 Precision: 0.6891891891891891
 Recall: 0.6144578313253012
 F1-score: 0.6496815286624203
+```
 #### Decision Tree Classifier
 The decision tree classifier produced a model that returned the following measures of accuracy, outperforming the
 logistic regression classifier:
@@ -447,6 +467,7 @@ Accuracy: 0.8651685393258427
 #### SVM Classifier
 Using a grid search to find the best hyperparameters for the SVM model resulted in the following
 parameters:
+```text
 Best hyperparameters: {'C': 100, 'gamma': 0.1, 'kernel': 'rbf'}
 C: 100
 break_ties: False
@@ -463,6 +484,7 @@ random_state: None
 shrinking: True
 tol: 0.001
 verbose: False
+```
 Using these parameters, a SVM model was generated. This model was used to predict the outcome of
 empathy based on the predictors, resulting in the following evaluation:
 Accuracy: 0.8539325842696629
