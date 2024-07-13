@@ -529,11 +529,8 @@ and its interrelationships with other domains of life: a qualitative study. Medi
 Bexelius, T., Lachmann, H., Järnbert-Pettersson, H., Kalén, S., Möller, R., & Ponzer, S. (2019). Stress among
 medical students during clinical courses: a longitudinal study using contextual activity sampling system.
 International Journal of Medical Education, 10, 68–74. https://doi.org/10.5116/ijme.5c94.9391
-Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Preisig, M., Schmid Mast, M., & Berney,
 
-A. (2022). The relationship between medical students’ empathy, mental health, and burnout: A
-cross-sectional study. Medical Teacher, 44(12), 1392–1399.
-https://doi.org/10.1080/0142159x.2022.2098708
+Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Preisig, M., Schmid Mast, M., & Berney, A. (2022). The relationship between medical students’ empathy, mental health, and burnout: A cross-sectional study. Medical Teacher, 44(12), 1392–1399. https://doi.org/10.1080/0142159x.2022.2098708
 
 Chen, Y., Yang, K., Jing, T., Huang, Y., & Li, L. (2019). Effects of team-based learning on perceived teamwork and
 empathy among nursing students. Advances in Health Sciences Education, 24(1), 155-164.
@@ -608,9 +605,7 @@ specificity in the expression and perception of emotion. International Journal o
 Spielberger, C. D., Gorsuch, R. L., Lushene, R., Vagg, P. R., & Jacobs, G. A. (1983). Manual for the State-Trait
 Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.
 
-Steiner-Hofbauer, V., & Holzinger, A. (2020). How to Cope with the Challenges of Medical Education? Stress,
-
-Depression, and Coping in Undergraduate Medical Students. Academic Psychiatry, 44(4), 380–387.
+Steiner-Hofbauer, V., & Holzinger, A. (2020). How to Cope with the Challenges of Medical Education? Stress, Depression, and Coping in Undergraduate Medical Students. Academic Psychiatry, 44(4), 380–387.
 https://doi.org/10.1007/s40596-020-01193-1
 
 Wickramasinghe, D. P., Almeida, I. S., & Samarasekera, D. N. (2019). Depression and stressful life events among
